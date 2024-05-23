@@ -1,0 +1,149 @@
+body{
+    background-color: #00ffff;
+    max-width: 100%;
+    max-height: 100%;
+    
+
+
+}
+.menu-items li {
+    display: flex;
+}
+.menu-items li:hover{
+    background-color: chartreuse;
+    display: flex;
+    
+    
+
+}
+.menu-items :hover{
+    background-color: black;
+}
+ .li a{
+    display: flex;
+}
+.menu-bar{
+    background-color: aliceblue;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+}
+
+.h{
+    align-content: center;
+    align-items: center;
+}
+.container1{
+    display: flex;
+    margin: 0%;
+    background-color: chartreuse;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+.image-container1{
+    padding-right: 5%;
+} 
+.container0{
+    display: flex;
+    background-color: fuchsia;
+    padding-bottom: 2%;
+}
+.box1{
+    padding-right: 5%;
+    background-color: blue;
+    padding-left: 3%;
+
+}
+.box2{
+    padding-right: 5%;
+    background-color: brown;
+    padding-left: 3%;
+}
+.box3{
+    padding-right: 5%;
+    background-color: coral;
+    padding-left: 3%;
+}
+h2{
+ text-align: center;   
+
+    
+} 
+.continer5{
+    display: flex;
+    background-color: darkgreen;   
+}
+
+.a{
+    padding-right: 5%;
+    
+    padding-left: 3%;
+
+}
+.b{
+    padding-right: 5%;
+    
+    padding-left: 3%;
+}
+.c{
+    padding-right: 5%;
+    padding-left: 3%;
+}  
+.container2{
+    display: flex; 
+    background-color: darkorange;
+}
+.container4{
+    background-color: rgb(218, 12, 12);
+    display: flex;
+    
+    
+}
+.d:hover{ 
+    background-color: beige;
+    
+
+
+}
+.continer5:hover{
+    background-color: blanchedalmond;
+}
+.d li :hover{
+    background-color: chartreuse;
+
+}
+.d {
+    padding-left: 20px;
+    padding-right: 40px;
+}
+.m{
+    padding-left: 10%; 
+    padding-top: 10%;
+}
+.hamburger-menu{
+    margin-left: 2%
+    
+}
+h1{
+    text-align: center;
+}
+
+
+ .li1 a:hover{
+    background-color: red;
+ }
+ .bonn{
+    text-align: right;
+    display: flex;
+
+ }
+ .bonn:hover{
+    background-color: rgb(34, 210, 69);
+ }
+ .bonn li a:hover{
+    background-color: rgb(220, 15, 15);
+    
+ }
+ .bonn li a{
+    text-align: right;
+ }
